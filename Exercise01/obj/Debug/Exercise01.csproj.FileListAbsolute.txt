@@ -1,0 +1,7 @@
+C:\CSharpProjects\Exercise01\bin\Debug\Exercise01.exe.config
+C:\CSharpProjects\Exercise01\bin\Debug\Exercise01.exe
+C:\CSharpProjects\Exercise01\bin\Debug\Exercise01.pdb
+C:\CSharpProjects\Exercise01\obj\Debug\Exercise01.csproj.AssemblyReference.cache
+C:\CSharpProjects\Exercise01\obj\Debug\Exercise01.csproj.CoreCompileInputs.cache
+C:\CSharpProjects\Exercise01\obj\Debug\Exercise01.exe
+C:\CSharpProjects\Exercise01\obj\Debug\Exercise01.pdb
